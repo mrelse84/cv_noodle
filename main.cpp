@@ -45,7 +45,7 @@ int main()
 	static float time;
 
 	// Load Noodle Image
-	Mat img = imread("d:/images/CJ_NW_Noodle/200422/NG/9864,9865.jpg", IMREAD_GRAYSCALE);
+	Mat img = imread("d:/images/CJ_Noodle/200422/NG/9864,9865.jpg", IMREAD_GRAYSCALE);
 	//Mat img = imread("d:/images/CJ_NW_Noodle/200422/NG/9852-9853.jpg");
 	//Mat img = imread("d:/images/CJ_NW_Noodle/200422/NG/die_03.png");
 
